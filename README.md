@@ -1,2 +1,0 @@
-# flydao
-flydao.app
