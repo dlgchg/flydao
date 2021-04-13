@@ -3364,7 +3364,7 @@ background: linear-gradient(to right, rgba(57,100,208,1) 0%, rgba(45,193,201,1) 
   display: inline-block;
   height: 60px;
   line-height: 54px;
-  padding: 0 45px;
+  padding: 0 40px;
   border-radius: 50px;
   border: 3px solid rgba(255, 255, 255, 0.36);
   font-size: 20px;
@@ -3551,6 +3551,7 @@ background: linear-gradient(to right, rgba(57,100,208,1) 0%, rgba(45,193,201,1) 
 .easypiechart {
   position: relative;
   display: inline-block;
+  margin: 55px auto 20px;
   margin-top: 55px;
       border: 1px solid rgba(255, 255, 255, 0.48);
         width: 150px;
