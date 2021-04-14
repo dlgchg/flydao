@@ -52,9 +52,9 @@
 	.e_chart_3 {height: 300px !important;}
 	.token-details .owl-controls .owl-buttons div{display: none;}
 	.media-area .mediabrand ul li{display: block;text-align: center;padding: 15px 0;}
-	.team-area .team-list{margin-bottom:50px !important; height:550px !important;}
+	.team-area .team-list{margin-bottom:50px !important; min-height:250px !important;}
 	.team-area2 .team-list{overflow: hidden;}
-	.team2-area .team-list{margin-bottom:50px !important; height:550px !important;}
+	.team2-area .team-list{margin-bottom:50px !important; min-height:250px !important;}
 }
 
 /* Custom, iPhone Retina */ 
