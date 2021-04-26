@@ -31,7 +31,7 @@
 	.tokens-area .tokens{display: block;margin: 0 0 50px;}
 	.tokens-area .tokens .token-body{display: block;}
 	.easypiechart{display: block;}
-	.tokens-area .token-con{margin: 0;}
+	.tokens-area .token-con{margin: 0;margin-top: 10px;font-size: 16px;}
 	.e_chart_3 div{margin: 0 auto;}
 	.token-details .cart-list .label-chatrs{padding: 62px 100px;}
 	.token-details .owl-controls .owl-buttons div.owl-prev{left: 0;border-radius: 0 15px 15px 0;}
@@ -48,13 +48,17 @@
 	.video-area .videos-heding h2{font-size: 36px;}
 	footer .footer-top .con ul li a{width: 65px;height: 65px;line-height: 59px;font-size: 30px;}
 	footer .footer-top .con ul li{padding: 0 5px;}
-	.media-area .mediabrand ul{margin: 0;}
+	.media-area .mediabrand ul{margin: 0; justify-content: space-around;}
 	.e_chart_3 {height: 300px !important;}
 	.token-details .owl-controls .owl-buttons div{display: none;}
 	.media-area .mediabrand ul li{display: block;text-align: center;padding: 15px 0;}
 	.team-area .team-list{margin-bottom:50px !important; min-height:250px !important;}
 	.team-area2 .team-list{overflow: hidden;}
 	.team2-area .team-list{margin-bottom:50px !important; min-height:250px !important;}
+
+	.tokens-area .tokens .token-body {
+		height: auto;
+	  }
 }
 
 /* Custom, iPhone Retina */ 
@@ -64,7 +68,7 @@
 	.video-area .videos-heding .videos-box .video-js .vjs-big-play-button{width: 70px;height: 70px;}
 	.video-area .videos-heding .videos-box .video-js .vjs-big-play-button::before{height: 70px;line-height: 70px;width: 30px;background-size: contain;}
 	.video-area .videos-heding h2{font-size: 30px;}
-	.tokens-area .tokens .token-body .left-btn{padding: 0 20px;font-size: 16px;}
+	.tokens-area .tokens .token-body .left-btn{padding: 0 10px;font-size: 16px;}
 	.tokens-area .tokens .token-body .right-btn{padding: 0 20px;font-size: 16px;}
 	.token-details .cart-list .label-chatrs{padding: 30px 25px;}
 	.team-area .team-list{height: auto;padding-bottom: 30px;}
